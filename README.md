@@ -17,6 +17,13 @@ From root of project runn ./stuff.ps1
 ./stuff.ps1
 ```
 
+## Open Todo's - Plans
+2018-00-00 00:00 - Clean up configuration to set connection to Azure instance.<br>
+2018-00-00 00:00 - Customize for connection or duplication of Citrix Demo experience.<br>
+2018-00-00 00:00 - Automate Citrix Cloud Connector installation.<br>
+2018-00-00 00:00 - Automate Citrix VDA installation.<br>
+2018-00-00 00:00 - stuff<br>
+
 ## Update Notes
 2018-05-02 14:00 - Update documentation.  Add Source from MicroSoft.<br>
 2018-05-02 12:00 - Create project<br>
