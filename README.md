@@ -1,7 +1,21 @@
 # CitrixCloud-Azure
 Integrate Citrix and Azure
 
+## Installing
+Modify the installation PowerShell script.
+```PowerShell
+$ npm install endo-google-cloud-platform
+```
 
+### Usage
+Modify usage PowerShell Script to include customizations.
+```PowerShell
+stuff
+```
+From root of project runn ./stuff.ps1
+```PowerShell
+./stuff.ps1
+```
 
 ## License
 
