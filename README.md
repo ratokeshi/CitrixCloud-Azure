@@ -17,6 +17,11 @@ From root of project runn ./stuff.ps1
 ./stuff.ps1
 ```
 
+## Update Notes
+2018-05-02 14:00 - Update documentation.  Add Source from MicroSoft.<br>
+2018-05-02 12:00 - Create project<br>
+2018-05-02 11:00 - stuff<br>
+
 ## License
 
 The MIT License (MIT)
