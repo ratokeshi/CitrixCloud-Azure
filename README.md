@@ -29,7 +29,7 @@ From root of project runn ./stuff.ps1
 - [ ] 2018-00-00 00:00 - Folder per section?  Kickoff different sections.<br>
 - [ ] 2018-00-00 00:00 - Azure PowerShell https://docs.microsoft.com/en-us/powershell/azure/install-azurerm-ps?view=azurermps-5.7.0<br>
 - [ ] 2018-00-00 00:00 - Other Azure PowerShell https://docs.microsoft.com/en-us/powershell/azure/get-started-azureps?view=azurermps-5.7.0<br>
-CitrixCloud-Azure/issues/#1<br>
+#1<br>
 - [ ] 2018-00-00 00:00 - stuff<br>
 - [ ] 2018-00-00 00:00 - stuff<br>
 
