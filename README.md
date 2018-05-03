@@ -23,6 +23,10 @@ From root of project runn ./stuff.ps1
 2018-00-00 00:00 - Customize for connection or duplication of Citrix Demo experience.<br>
 2018-00-00 00:00 - Automate Citrix Cloud Connector installation.<br>
 2018-00-00 00:00 - Automate Citrix VDA installation.<br>
+2018-00-00 00:00 - Split script to steps.<br>
+2018-00-00 00:00 - Visual feedback for script status.<br>
+2018-00-00 00:00 - Folder per section?  Kickoff different sections.<br>
+2018-00-00 00:00 - stuff<br>
 2018-00-00 00:00 - stuff<br>
 
 ## Update Notes
