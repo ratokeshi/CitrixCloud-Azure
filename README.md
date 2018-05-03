@@ -1,5 +1,6 @@
 # CitrixCloud-Azure
-Integrate Citrix and Azure
+Integrate Citrix and Azure.<br>
+Use this project to easily create and deploy a resource location in Microsoft Azure managed by Citrix Cloud.<br>
 
 ## Installing
 Modify the installation PowerShell script.
